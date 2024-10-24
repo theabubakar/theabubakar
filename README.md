@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Vaccination Management System**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Dot-Net Core Projects**
 
